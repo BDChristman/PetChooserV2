@@ -1,5 +1,5 @@
 # Brian D. Christman
-# Purpose: To define the class and properties used in the Pets Chooser program (main.py).
+# Purpose: To define the class and properties used in the Pets Chooser Version 2 program (main.py).
 
 # Define the class and private properties
 class pets:
